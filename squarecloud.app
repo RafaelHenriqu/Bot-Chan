@@ -1,0 +1,5 @@
+DISPLAY_NAME=Bot chan
+DESCRIPTION=nada
+MAIN=main.py
+MEMORY=128
+VERSION=recommended

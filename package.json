@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@squarecloud/api": "^3.0.3"
+  }
+}
