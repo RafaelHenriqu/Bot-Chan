@@ -12,7 +12,7 @@ EstadoMental = {
    4: "Apaixonada",
    5: "Nivel S De Felicidade"
 }
-Tags = {
+Tags = { # Amigos: 
  "gabriel": "Lindo De +",
  "rafael":"Analfabeto",
  "ariel":"Dono Do Server",
@@ -21,7 +21,7 @@ Tags = {
  "nicolas":"Bizzaro de Mais"   
 
 }
-Moedas = {
+Moedas = { #Conversão De Moedas
    "dolar": "USD",
    "euro": "EUR",
    "libra":"GBP",
